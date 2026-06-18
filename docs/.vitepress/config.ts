@@ -22,7 +22,7 @@ function buildPredictSidebar() {
 }
 
 export default defineConfig({
-  base: '/world-cup-2026-predict/',
+  base: '/',
   title: 'World Cup 2026 — Dự đoán',
   description: 'Phân tích & dự đoán các trận World Cup 2026',
   lang: 'vi-VN',

@@ -16,6 +16,6 @@ hero:
 features:
   - title: Cập nhật theo trận
     details: Mỗi trận một bài phân tích riêng — tin tức, chiến thuật, dự đoán tỷ số.
-  - title: Tiếng Việt
-    details: Nội dung nhận định bằng tiếng Việt, dễ đọc trên mọi thiết bị.
+  - title: Góc nhìn chuyên gia
+    details: Phân tích chuyên sâu, dưới góc nhìn chuyên gia
 ---
