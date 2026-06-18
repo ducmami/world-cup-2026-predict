@@ -12,6 +12,7 @@ created: 2026-06-18 00:10
 #### 1. Cập nhật tin tức & Biến động nhân sự (Mới nhất)
 
 **Bồ Đào Nha:**
+
 - **Đội hình ra sân (4-2-3-1):** Diogo Costa; Cancelo, Araujo, Veiga, Nuno Mendes; Vitinha, Joao Neves; Bernardo Silva, Bruno Fernandes, Pedro Neto; **Cristiano Ronaldo (C)**
 - **Ronaldo (41 tuổi):** Vừa giành Saudi Pro League với Al Nassr — 28 bàn/30 trận ở giải VĐQG mùa 2025-26, 30 bàn trên mọi đấu trường. Tuy nhiên, **không ghi bàn** ở 2 trận giao hữu gặp Chile và Nigeria trước giải. Thành tích gần đây ở giải lớn rất kém: chỉ 1 bàn ở World Cup 2022, **0 bàn** tại Euro 2024 dù đá chính cả 5 trận.
 - **Bernardo Silva** chính thức gia nhập Real Madrid sau khi rời Man City — động lực lớn.
@@ -22,6 +23,7 @@ created: 2026-06-18 00:10
 - **Điểm yếu lớn nhất:** Khả năng chuyển trạng thái phòng ngự. Carvalhal cảnh báo: "Phải hết sức cẩn trọng trong những tình huống chuyển đổi trạng thái."
 
 **DR Congo:**
+
 - **Đội hình ra sân (5-3-2):** Mpasi; Wan-Bissaka, Kapuadi, Mbemba, Tuanzebe, Masuaku; Moutoussamy, Mukau, Kayembe; Bakambu, **Wissa**
 - **Lần đầu dự World Cup kể từ 1974** (khi còn tên Zaire — thua cả 3 trận, 0 bàn, 14 bàn thua).
 - **Yoane Wissa (Newcastle):** Mùa giải thảm họa — chấn thương dây chằng đầu gối sau khi chuyển từ Brentford với giá 55 triệu Bảng. Chỉ **3 bàn/28 trận** trên mọi đấu trường. Newcastle thừa nhận Wissa chưa đạt 100% thể lực.
@@ -62,14 +64,4 @@ created: 2026-06-18 00:10
 
 **Trả lời câu hỏi "CR7 có gánh Bồ Đào Nha được không?":** Khả năng thấp. Ronaldo vẫn ghi bàn đều đặn ở Saudi Pro League (28 bàn/mùa), nhưng **mức độ cạnh tranh hoàn toàn khác** so với World Cup. Thành tích ở giải lớn gần đây nói lên tất cả: 1 bàn ở World Cup 2022, 0 bàn ở Euro 2024. Ở tuổi 41, anh vẫn là biểu tượng tinh thần và được đồng đội tôn trọng, nhưng **Bồ Đào Nha không còn phụ thuộc vào Ronaldo** — Bruno Fernandes (21 kiến tạo PL), Vitinha (MOTM chung kết C1), Bernardo Silva mới là những người kéo đội. CR7 sẽ là "cây làm bàn" trong vòng cấm, nhưng "gánh" cả đội thì không.
 
-#### 5. Nguồn đã dùng
-
-- `data/matches.md` — Lịch thi đấu bảng K, trận ngày 17/06 (cập nhật 2026-06-17)
-- `data/articles/20260617/20260617_2440e95a.md` — "Đội hình Bồ Đào Nha vs DR Congo chính thức", Bongda24h, 2026-06-17
-- `data/articles/20260617/20260617_3d0e4b80.md` — "Cựu HLV NHA: Ronaldo không nên đá trọn 90 phút ở World Cup", Bongda24h, 2026-06-17
-- `data/articles/20260616/20260616_28a13659.md` — "Bruno Fernandes mơ về World Cup cho Bồ Đào Nha", Bongda24h, 2026-06-16
-- `data/articles/20260614/20260614_46055ef2.md` — "Đồng đội cũ chỉ ra hai lý do Ronaldo đứng trên Messi", Bongda24h, 2026-06-14
-- Web search — Sporting News, Al Jazeera, FOX Sports, BBC Sport, Wikipedia (Group K), Squawka, SI.com, beIN SPORTS, PrizePicks
-- Ronaldo stats: Saudi Pro League 2025-26 (28 bàn/30 trận, Al Nassr vô địch)
-- Wissa stats: Newcastle 2025-26 (3 bàn/28 trận, chấn thương MCL)
-- Opta supercomputer: Portugal thắng 54.6%, Hòa 22.3%, Congo thắng 23.1%
+---

@@ -71,14 +71,4 @@ created: 2026-06-17 00:38
   - Dữ liệu đủ tốt: đội hình dự kiến rõ ràng từ nhiều nguồn uy tín, tình hình nhân sự cập nhật 24h trước trận.
   - Giới hạn: Không có chỉ số nâng cao (xG, xGA, PPDA) cụ thể cho cả hai đội. Phân tích dựa trên định tính và dữ liệu lịch sử.
 
-#### 5. Nguồn đã dùng
-
-- `data/matches.md` — lịch thi đấu World Cup 2026, cập nhật 2026-06-16
-- `data/articles/20260616/acdafba9.md` — "Senegal trước cơ hội chứng tỏ với ĐT Pháp", Bongda24h, 2026-06-16
-- `data/articles/20260616/e911fd51.md` — "Phân tích, dự đoán phạt góc Pháp vs Senegal", Bongda24h, 2026-06-16
-- `data/articles/20260616/07d0345e.md` — "Trực tiếp Pháp vs Senegal 2h00 ngày 17/6", Bongda24h, 2026-06-16
-- `data/articles/20260615/b12321ad.md` — "Why Michael Olise is the key to France's World Cup chances", ESPN, 2026-06-15
-- `data/articles/20260614/b031537d.md` — "Nhận định Pháp vs Senegal: Đối thủ khó chịu", Bongda24h, 2026-06-14
-- `data/articles/20260615/21e7eae2.md` — "France's Adrien Rabiot: We all have a role", Guardian, 2026-06-15
-- `data/articles/20260614/394da458.md` — "William Saliba trở lại tập luyện cùng tuyển Pháp", Bongda24h, 2026-06-14
-- Web search — CBS Sports, Al Jazeera, Sporting News, SI.com, Sports Mole, The Standard, Yahoo Sports, Opta Analyst, RotoWire, AfricaSoccer (2026-06-16)
+---

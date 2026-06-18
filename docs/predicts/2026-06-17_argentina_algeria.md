@@ -70,17 +70,4 @@ created: 2026-06-17 07:42
 - **Mức độ tự tin:** TRUNG BÌNH-CAO
   - Argentina rõ ràng mạnh hơn, nhưng Algeria là đối thủ nguy hiểm nhất trong 3 đội còn lại của bảng J. Trận mở màn luôn có yếu tố bất ngờ. Phong độ giao hữu ấn tượng của Algeria (thắng Hà Lan, Bolivia) cho thấy họ không đến để làm khán giả. Dự đoán Argentina thắng nhưng không dễ dàng.
 
-#### 5. Nguồn đã dùng
-
-- `data/matches.md` — cập nhật 2026-06-16 17:23 UTC, trận Argentina vs Algeria ngày 17/06 chưa có kết quả
-- Web search — Argentina vs Algeria predictions, lineups, odds (Al Jazeera, WhoScored, SI, Sporting News, Heavy.com)
-- Web search — Argentina squad news: Balerdi out (Senesi thay), Tagliafico out (calf), Messi fit, E. Martinez fit
-- Web search — Algeria squad news: Bensebaini doubt (ankle), Zidane recovered (jaw), Gouiri/Aouar back
-- Web search — Algeria warm-up results: beat Netherlands 1-0 (3/6), beat Bolivia 4-0 (10/6)
-- Web search — Argentina friendly: beat Iceland 3-0 (9/6), Messi scored penalty
-- Web search — Group J tactical analysis (Opta, Squawka, RotoWire)
-- Web search — Argentina tactical analysis: 4-3-3/4-4-2 hybrid, mid-block, Messi free role
-
 ---
-
-> **Lưu file:** `predicts/2026-06-17_argentina_algeria.md`

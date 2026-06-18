@@ -31,13 +31,13 @@ created: 2026-06-18 00:10
 
 - _Sơ đồ dự kiến:_ Anh 4-2-3-1 vs Croatia 3-4-2-1.
 
-| Vị trí | Anh | Croatia |
-|--------|-----|---------|
-| GK | Pickford | Livakovic |
-| Hậu vệ | James - Stones - Konsa - O'Reilly | Sutalo - Vuskovic - Gvardiol |
-| Tiền vệ | Rice - Anderson | Stanisic - Modric - Kovacic - Perisic |
-| Công | Madueke/Saka - Bellingham - Gordon | Sucic - Baturina |
-| ĐT | Kane | Musa |
+| Vị trí  | Anh                                | Croatia                               |
+| ------- | ---------------------------------- | ------------------------------------- |
+| GK      | Pickford                           | Livakovic                             |
+| Hậu vệ  | James - Stones - Konsa - O'Reilly  | Sutalo - Vuskovic - Gvardiol          |
+| Tiền vệ | Rice - Anderson                    | Stanisic - Modric - Kovacic - Perisic |
+| Công    | Madueke/Saka - Bellingham - Gordon | Sucic - Baturina                      |
+| ĐT      | Kane                               | Musa                                  |
 
 - _Cạnh tranh khu vực:_
   - **Trung tâm: Rice-Anderson vs Modric-Kovacic** — Đây là trận chiến quyết định. England có ưu thế thể lực và tốc độ (Anderson 23 tuổi, Rice 27 tuổi) trong khi Modric (40) và Kovacic (32) dựa vào kinh nghiệm và khả năng giữ nhịp. Nếu England pressing cao, cặp tiền vệ Croatia sẽ bị ngợp.
@@ -73,11 +73,4 @@ created: 2026-06-18 00:10
   - Croatia có "DNA giải đấu lớn" — khó đoán trước.
   - Không có chỉ số nâng cao (xG, PPDA) cụ thể từ dữ liệu → phân tích chủ yếu định tính.
 
-#### 5. Nguồn đã dùng
-
-- `data/matches.md` — cập nhật 2026-06-17 17:07 UTC, lịch thi đấu bảng L, kết quả các trận đã đá
-- `data/articles/20260617/` — Dự đoán Anh vs Croatia (Bongda24h), Đội hình dự kiến, Kane hạnh phúc đạt cột mốc Beckham
-- `data/articles/20260616/` — "Modric gửi lời tuyên chiến tới Anh" (Bongda24h), "Luka Modric has been tormenting England for 20 years" (The Guardian), "Runners-up in 2018, third place in 2022: Can Croatia shock?" (ESPN)
-- `data/articles/20260615/` — "Nhận định Anh vs Croatia: Cuộc đối đầu duyên nợ" (Bongda24h), "Saka says he is gambling on fitness" (The Guardian)
-- `data/articles/20260617/` — "Tuchel says World Cup will bring out the best" (The Guardian), "Harry Kane's American dream begins" (The Guardian)
-- Web search — England vs Croatia team news, injury, predicted XIs (Yahoo Sports, Sports Mole, The Standard, England Football); Croatia World Cup 2026 preview (Sportstar, Olympics.com, Wikipedia Group L)
+---

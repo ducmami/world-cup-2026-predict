@@ -58,14 +58,4 @@ created: 2026-06-18 00:10
   - Tin mâu thuẫn: Ghana được đánh giá cao hơn (bookmakers + Opta) nhưng phong độ thực tế 7 trận không thắng. Phân tích định tính ủng hộ Panama hoặc hòa hơn là Ghana thắng.
   - Lý do chọn 1-1: Cả hai đều mất nhạc trưởng tuyến giữa, đều có vấn đề phòng ngự (Ghana không sạch lưới 10 trận WC, Panama thủng 6 bàn trước Brazil), và đều biết trận này quá quan trọng để mạo hiểm. Trận đấu có xu hướng "cancel out" — hai đội tương đương nhau về mặt lực lượng khi đã trừ đi Partey và Carrasquilla.
 
-## 5. Nguồn đã dùng
-
-- `data/matches.md` — cập nhật 17/06/2026, Ghana vs Panama chưa có kết quả (lịch 18/06 06:00)
-- `data/articles/20260617/20260617_7f2dbf16.md` — "Đội hình Ghana vs Panama dự kiến" (Bongda24h, 17/06)
-- `data/articles/20260615/20260615_a44cf067.md` — "Nhận định Ghana vs Panama: Ngôi sao đen khủng hoảng" (Bongda24h, 15/06)
-- `data/articles/20260617/20260617_d9a014eb.md` — "Dự đoán diễn biến, thẻ phạt, phạt góc" (Bongda24h, 17/06)
-- `data/articles/20260616/20260616_11760996.md` — "Partey visa appeal rejected" (The Guardian, 17/06)
-- `data/articles/20260610/20260610_3e62dd68.md` — "Ghana World Cup 2026 team guide" (The Guardian, 11/06)
-- `data/articles/20260611/20260611_94ddf4b3.md` — "Panama World Cup 2026 team guide" (The Guardian, 11/06)
-- `data/articles/20260617/20260617_7130a820.md` — Football Daily: Guardian predicts Ghana 2-0 Panama
-- Web search — RotoWire (tactical preview, predicted lineups), FIFA.com (match preview), Opta Analyst (supercomputer: Ghana 45.1%, Draw 26.8%, Panama 28.1%), AfricaSoccer (Carrasquilla bench confirmation), BBC/Sky/France24 (Partey visa details), FootballWhispers (predicts 1-1)
+---
