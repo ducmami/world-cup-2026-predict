@@ -5,7 +5,11 @@
 
 | Ngày | Trận | |
 |------|------|---|
+| 2026-06-21 | Tunisia vs Japan | [Đọc →](/predicts/2026-06-21_tunisia_japan) |
+| 2026-06-21 | Ecuador vs Curaçao | [Đọc →](/predicts/2026-06-21_ecuador_curacao) |
 | 2026-06-20 | Turkey vs Paraguay | [Đọc →](/predicts/2026-06-20_turkey_paraguay) |
+| 2026-06-20 | Netherlands vs Sweden | [Đọc →](/predicts/2026-06-20_netherlands_sweden) |
+| 2026-06-20 | Germany vs Ivory Coast | [Đọc →](/predicts/2026-06-20_germany_ivory-coast) |
 | 2026-06-20 | Brazil vs Haiti | [Đọc →](/predicts/2026-06-20_brazil_haiti) |
 | 2026-06-19 | United States vs Australia | [Đọc →](/predicts/2026-06-19_united-states_australia) |
 | 2026-06-19 | Scotland vs Morocco | [Đọc →](/predicts/2026-06-19_scotland_morocco) |
