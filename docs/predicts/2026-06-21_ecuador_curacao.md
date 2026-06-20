@@ -1,5 +1,5 @@
 ---
-title: Ecuador vs Curaçao
+title: 34 - Ecuador vs Curaçao
 match: Ecuador vs Curaçao
 date: 2026-06-21
 created: 2026-06-20 21:33

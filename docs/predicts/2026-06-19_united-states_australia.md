@@ -1,5 +1,5 @@
 ---
-title: United States vs Australia
+title: 31 - United States vs Australia
 match: United States vs Australia
 date: 2026-06-19
 created: 2026-06-19 16:00

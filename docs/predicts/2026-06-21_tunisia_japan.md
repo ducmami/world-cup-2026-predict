@@ -1,5 +1,5 @@
 ---
-title: Tunisia vs Japan
+title: 36 - Tunisia vs Japan
 match: Tunisia vs Japan
 date: 2026-06-21
 created: 2026-06-20 21:33

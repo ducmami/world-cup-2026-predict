@@ -1,5 +1,5 @@
 ---
-title: Turkey vs Paraguay
+title: 32 - Turkey vs Paraguay
 match: Turkey vs Paraguay
 date: 2026-06-20
 created: 2026-06-19 16:30

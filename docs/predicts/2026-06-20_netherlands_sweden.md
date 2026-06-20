@@ -1,5 +1,5 @@
 ---
-title: Netherlands vs Sweden
+title: 35 - Netherlands vs Sweden
 match: Netherlands vs Sweden
 date: 2026-06-20
 created: 2026-06-20 21:10

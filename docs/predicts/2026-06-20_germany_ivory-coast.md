@@ -1,5 +1,5 @@
 ---
-title: Germany vs Ivory Coast
+title: 33 - Germany vs Ivory Coast
 match: Germany vs Ivory Coast
 date: 2026-06-20
 created: 2026-06-20 21:48

@@ -1,5 +1,5 @@
 ---
-title: Scotland vs Morocco
+title: 30 - Scotland vs Morocco
 match: Scotland vs Morocco
 date: 2026-06-19
 created: 2026-06-19 16:30
