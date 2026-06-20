@@ -14,12 +14,14 @@ created: 2026-06-20 21:48
 #### 1. Cập nhật tin tức & Biến động nhân sự (Mới nhất)
 
 **Germany:**
+
 - **Phong độ:** Huỷ diệt Curacao 7-1 ở lượt trận đầu tiên (14/06). 6 cầu thủ khác nhau ghi bàn: Nmecha, Schlotterbeck, Havertz (2), Musiala, Brown, Undav. Hàng công hoạt động trơn tru, pressing cao, chuyển trạng thái mượt mà.
 - **Nhân sự:** Không có chấn thương hay án treo giò. Nagelsmann có đội hình mạnh nhất. Manuel Neuer (40 tuổi) bắt chính, đã vượt qua chấn thương bắp chân trước giải.
 - **Nagelsmann đã thử nghiệm 2 biến thể chiến thuật trong tập luyện:** (1) 5-4-1 phòng ngự sâu hơn, Sané lót vào hàng thủ 5 người; (2) 4-2-2-2 với Musiala đá cặp tiền đạo với Havertz — cho thấy sự tôn trọng tốc độ của Bờ Biển Ngà.
 - **Tin bên lề:** Rắn độc (copperhead) xuất hiện tại đại bản doanh ở Winston-Salem. Kimmich nói đùa nhưng cho thấy điều kiện thời tiết nóng ẩm, môi trường tự nhiên khắc nghiệt — liên quan đến thể lực cầu thủ.
 
 **Ivory Coast:**
+
 - **Phong độ:** Thắng Ecuador 1-0 ở lượt 1 (15/06) nhờ bàn thắng phút 90 của Amad Diallo. Trận đấu chặt chẽ, phòng ngự tốt nhưng tấn công thiếu sáng tạo trong phần lớn thời gian.
 - **MẤT MẠNG:** Elye Wahi — tiền đạo đá chính trận Ecuador — bị từ chối nhập cảnh Canada do liên quan đến cáo buộc dàn xếp tỉ số (spot-fixing) tại Ligue 1 (Nice vs Metz, 17/05). Wahi bị bắt ngày 29/05, được thả, nhưng Canada không cấp visa. Đây là tổn thất lớn cho hàng công.
 - **Chấn thương:** Evan N'Dicka — trung vệ chủ lực — vẫn nghi ngờ với chấn thương hamstring. Khả năng ra sân chưa rõ.
@@ -31,17 +33,18 @@ created: 2026-06-20 21:48
 #### 2. Phân tích chiến thuật & Điểm nóng
 
 **Sơ đồ dự kiến:**
+
 - **Germany (4-2-3-1):** Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sané, Musiala, Wirtz; Havertz
 - **Ivory Coast (4-3-3):** Y. Fofana; Doué, Singo, Agbadou, Konan; Y. Diomande, Kessié, S. Fofana; Amad, Pépé, Bonny
 
 **Điểm nóng chiến thuật:**
 
-| Khu vực | Germany | Ivory Coast | Nhận xét |
-|---|---|---|---|
-| Cánh phải (Germany) | Kimmich dâng cao, tạo overloads | Diomande khai thác khoảng trống | KEY BATTLE — Kimmich là tiền vệ Bayern đá hậu vệ phải, Diomande có tốc độ bùng nổ |
-| Trung tuyến | Nmecha + Pavlovic kiểm soát nhịp | Kessié án ngữ, Sangaré pressing | Đức kiểm soát bóng, Bờ Biển Ngà phòng ngự mid-block |
-| Hàng công | Musiala-Wirtz-Havertz hoán đổi vị trí | Amad + Pépé phản công | Đức tấn công half-space, Bờ Biển Ngà dựa vào transition |
-| Set pieces | Kimmich, Wirtz tạt; Schlotterbeck, Tah không chiến | Kessié sút phạt; Agbadou không chiến | Đức có lợi thế chiều cao |
+| Khu vực             | Germany                                            | Ivory Coast                          | Nhận xét                                                                          |
+| ------------------- | -------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------------- |
+| Cánh phải (Germany) | Kimmich dâng cao, tạo overloads                    | Diomande khai thác khoảng trống      | KEY BATTLE — Kimmich là tiền vệ Bayern đá hậu vệ phải, Diomande có tốc độ bùng nổ |
+| Trung tuyến         | Nmecha + Pavlovic kiểm soát nhịp                   | Kessié án ngữ, Sangaré pressing      | Đức kiểm soát bóng, Bờ Biển Ngà phòng ngự mid-block                               |
+| Hàng công           | Musiala-Wirtz-Havertz hoán đổi vị trí              | Amad + Pépé phản công                | Đức tấn công half-space, Bờ Biển Ngà dựa vào transition                           |
+| Set pieces          | Kimmich, Wirtz tạt; Schlotterbeck, Tah không chiến | Kessié sút phạt; Agbadou không chiến | Đức có lợi thế chiều cao                                                          |
 
 **Phân tích chi tiết:**
 
@@ -86,23 +89,10 @@ Bước ngoặt sẽ đến từ hiệp 2, khi Đức sử dụng bench depth (U
 **Mức độ tự tin: TRUNG BÌNH-CAO**
 
 Lý do:
+
 - Đức mạnh hơn rõ rệt về chất lượng đội hình, kinh nghiệm và chiều sâu
 - Bờ Biển Ngà mất Wahi, N'Dicka chưa chắc ra sân
 - Nhưng Bờ Biển Ngà là đội có thể tạo bất ngờ từ transition, và Đức có thể sơ suất sau trận 7-1
 - Không có dữ liệu xG/xGA cụ thể từ hai đội tại giải — phân tích dựa trên qualitative + nguồn báo chí
 
 ---
-
-#### 5. Nguồn đã dùng
-
-- `data/matches.md` — cập nhật 20/06, Germany 7-1 Curacao (14/06), Ivory Coast 1-0 Ecuador (15/06)
-- `data/articles/20260614/20260614_eaa49826.md` — "Germany's big win shows pros and cons of expanded World Cup" (ESPN, 14/06)
-- `data/articles/20260614/20260614_57308397.md` — "Curacao enjoy their moment but Havertz and ruthless Germany show no mercy" (The Guardian, 14/06)
-- `data/articles/20260615/20260615_9d33f780.md` — "So close! Germany nearly got a World Cup Scorigami" (ESPN, 15/06)
-- `data/articles/20260618/20260618_4a908863.md` — "Ivory Coast's Elye Wahi denied Canada visa amid spot-fixing allegations" (ESPN/AP, 18/06)
-- `data/articles/20260615/20260615_8a6c35c9.md` — "World Cup Daily LIVE: Ivory Coast beat Ecuador" (ESPN, 15/06)
-- `data/articles/20260620/20260620_270794db.md` — "World Cup 2026: USA's 'high IQ' squad..." (The Guardian live blog, 20/06)
-- `data/articles/20260620/20260620_24ffefee.md` — "How teams can qualify for knockout rounds" (ESPN, 20/06)
-- `data/articles/20260619/20260619_23a74a3a.md` — "World Cup 2026 Power Rankings after one game" (ESPN, 19/06)
-- Web search — "Germany vs Ivory Coast World Cup 2026 preview" (ESPN, The Independent, Yahoo Sports, Goal.com, Covers.com)
-- Web search — "Nagelsmann Germany tactical system World Cup 2026" (The Athletic, RotoWire, BuliNews, Sports Mole, TacticalFootballAnalysis)
