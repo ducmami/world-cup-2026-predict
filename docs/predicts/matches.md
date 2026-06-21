@@ -4,7 +4,7 @@ date: 2026-07-20
 created: 2026-07-20 23:59:59
 ---
 
-> Cập nhật kết quả: 2026-06-20 13:54:44 UTC
+> Cập nhật kết quả: 2026-06-21 15:19:22 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -200,25 +200,25 @@ created: 2026-07-20 23:59:59
 
 | 2026/06/20 | Netherlands | Sweden |
 | ---------- | ----------- | ------ |
-| Hiệp chính |             |        |
+| Hiệp chính | 5           | 1      |
 | Hiệp phụ   |             |        |
 | Penalty    |             |        |
 
 | 2026/06/20 | Germany | Ivory Coast |
 | ---------- | ------- | ----------- |
-| Hiệp chính |         |             |
+| Hiệp chính | 2       | 1           |
 | Hiệp phụ   |         |             |
 | Penalty    |         |             |
 
 | 2026/06/21 | Ecuador | Curaçao |
 | ---------- | ------- | ------- |
-| Hiệp chính |         |         |
+| Hiệp chính | 0       | 0       |
 | Hiệp phụ   |         |         |
 | Penalty    |         |         |
 
 | 2026/06/21 | Tunisia | Japan |
 | ---------- | ------- | ----- |
-| Hiệp chính |         |       |
+| Hiệp chính | 0       | 4     |
 | Hiệp phụ   |         |       |
 | Penalty    |         |       |
 
