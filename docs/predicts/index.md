@@ -6,7 +6,11 @@
 | Ngày | Trận | |
 |------|------|---|
 | 2026-07-20 | Cập nhật kết quả | [Đọc →](/predicts/matches) |
+| 2026-06-24 | 51 - Switzerland vs Canada | [Đọc →](/predicts/2026-06-24_switzerland_canada) |
+| 2026-06-24 | 49 - Scotland vs Brazil | [Đọc →](/predicts/2026-06-24_scotland_brazil) |
+| 2026-06-24 | 50 - Morocco vs Haiti | [Đọc →](/predicts/2026-06-24_morocco_haiti) |
 | 2026-06-24 | 48 - Colombia vs Congo DR | [Đọc →](/predicts/2026-06-24_colombia_congo-dr) |
+| 2026-06-24 | 52 - Bosnia-Herzegovina vs Qatar | [Đọc →](/predicts/2026-06-24_bosnia-herzegovina_qatar) |
 | 2026-06-23 | 47 - Bồ Đào Nha vs Uzbekistan | [Đọc →](/predicts/2026-06-23_portugal_uzbekistan) |
 | 2026-06-23 | 46 - Panama vs Croatia | [Đọc →](/predicts/2026-06-23_panama_croatia) |
 | 2026-06-23 | 45 - England vs Ghana | [Đọc →](/predicts/2026-06-23_england_ghana) |

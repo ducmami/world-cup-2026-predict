@@ -4,7 +4,7 @@ date: 2026-07-20
 created: 2026-07-20 23:59:59
 ---
 
-> Cập nhật kết quả: 2026-06-23 14:45:04 UTC
+> Cập nhật kết quả: 2026-06-24 17:28:06 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -272,25 +272,25 @@ created: 2026-07-20 23:59:59
 
 | 2026/06/23 | Portugal | Uzbekistan |
 | ---------- | -------- | ---------- |
-| Hiệp chính |          |            |
+| Hiệp chính | 5        | 0          |
 | Hiệp phụ   |          |            |
 | Penalty    |          |            |
 
 | 2026/06/23 | England | Ghana |
 | ---------- | ------- | ----- |
-| Hiệp chính |         |       |
+| Hiệp chính | 0       | 0     |
 | Hiệp phụ   |         |       |
 | Penalty    |         |       |
 
 | 2026/06/23 | Panama | Croatia |
 | ---------- | ------ | ------- |
-| Hiệp chính |        |         |
+| Hiệp chính | 0      | 1       |
 | Hiệp phụ   |        |         |
 | Penalty    |        |         |
 
 | 2026/06/24 | Colombia | Congo DR |
 | ---------- | -------- | -------- |
-| Hiệp chính |          |          |
+| Hiệp chính | 1        | 0        |
 | Hiệp phụ   |          |          |
 | Penalty    |          |          |
 
