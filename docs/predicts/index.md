@@ -6,6 +6,8 @@
 | Ngày | Trận | |
 |------|------|---|
 | 2026-07-20 | Cập nhật kết quả | [Đọc →](/predicts/matches) |
+| 2026-06-25 | 54 - South Africa vs South Korea | [Đọc →](/predicts/2026-06-25_south-africa_south-korea) |
+| 2026-06-25 | 53 - Czechia vs Mexico | [Đọc →](/predicts/2026-06-25_czechia_mexico) |
 | 2026-06-24 | 51 - Switzerland vs Canada | [Đọc →](/predicts/2026-06-24_switzerland_canada) |
 | 2026-06-24 | 49 - Scotland vs Brazil | [Đọc →](/predicts/2026-06-24_scotland_brazil) |
 | 2026-06-24 | 50 - Morocco vs Haiti | [Đọc →](/predicts/2026-06-24_morocco_haiti) |
