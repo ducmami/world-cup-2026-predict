@@ -332,25 +332,25 @@ created: 2026-07-20 23:59:59
 
 | 2026/06/25 | Ecuador | Germany |
 | ---------- | ------- | ------- |
-| Hiệp chính |         |         |
+| Hiệp chính | 2       | 1       |
 | Hiệp phụ   |         |         |
 | Penalty    |         |         |
 
 | 2026/06/25 | Curaçao | Ivory Coast |
 | ---------- | ------- | ----------- |
-| Hiệp chính |         |             |
+| Hiệp chính | 0       | 2           |
 | Hiệp phụ   |         |             |
 | Penalty    |         |             |
 
 | 2026/06/25 | Tunisia | Netherlands |
 | ---------- | ------- | ----------- |
-| Hiệp chính |         |             |
+| Hiệp chính | 1       | 3           |
 | Hiệp phụ   |         |             |
 | Penalty    |         |             |
 
 | 2026/06/25 | Japan | Sweden |
 | ---------- | ----- | ------ |
-| Hiệp chính |       |        |
+| Hiệp chính | 1     | 1      |
 | Hiệp phụ   |       |        |
 | Penalty    |       |        |
 

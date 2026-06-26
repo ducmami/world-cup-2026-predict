@@ -6,8 +6,14 @@
 | Ngày | Trận | |
 |------|------|---|
 | 2026-07-20 | Cập nhật kết quả | [Đọc →](/predicts/matches) |
+| 2026-06-26 | 59 - Turkey vs United States | [Đọc →](/predicts/2026-06-26_turkey_united-states) |
+| 2026-06-26 | 60 - Paraguay vs Australia | [Đọc →](/predicts/2026-06-26_paraguay_australia) |
+| 2026-06-25 | 58 - Tunisia vs Netherlands | [Đọc →](/predicts/2026-06-25_tunisia_netherlands) |
 | 2026-06-25 | 54 - South Africa vs South Korea | [Đọc →](/predicts/2026-06-25_south-africa_south-korea) |
+| 2026-06-25 | 57 - Japan vs Sweden | [Đọc →](/predicts/2026-06-25_japan_sweden) |
+| 2026-06-25 | 56 - Ecuador vs Germany | [Đọc →](/predicts/2026-06-25_ecuador_germany) |
 | 2026-06-25 | 53 - Czechia vs Mexico | [Đọc →](/predicts/2026-06-25_czechia_mexico) |
+| 2026-06-25 | 55 - Curaçao vs Ivory Coast | [Đọc →](/predicts/2026-06-25_curacao_ivory-coast) |
 | 2026-06-24 | 51 - Switzerland vs Canada | [Đọc →](/predicts/2026-06-24_switzerland_canada) |
 | 2026-06-24 | 49 - Scotland vs Brazil | [Đọc →](/predicts/2026-06-24_scotland_brazil) |
 | 2026-06-24 | 50 - Morocco vs Haiti | [Đọc →](/predicts/2026-06-24_morocco_haiti) |
