@@ -4,7 +4,7 @@ date: 2026-07-20
 created: 2026-07-20 23:59:59
 ---
 
-> Cập nhật kết quả: 2026-06-26 16:48:11 UTC
+> Cập nhật kết quả: 2026-06-27 17:22:31 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -368,37 +368,37 @@ created: 2026-07-20 23:59:59
 
 | 2026/06/26 | Norway | France |
 | ---------- | ------ | ------ |
-| Hiệp chính |        |        |
+| Hiệp chính | 1      | 4      |
 | Hiệp phụ   |        |        |
 | Penalty    |        |        |
 
 | 2026/06/26 | Senegal | Iraq |
 | ---------- | ------- | ---- |
-| Hiệp chính |         |      |
+| Hiệp chính | 5       | 0    |
 | Hiệp phụ   |         |      |
 | Penalty    |         |      |
 
 | 2026/06/27 | Uruguay | Spain |
 | ---------- | ------- | ----- |
-| Hiệp chính |         |       |
+| Hiệp chính | 0       | 1     |
 | Hiệp phụ   |         |       |
 | Penalty    |         |       |
 
 | 2026/06/27 | Cape Verde Islands | Saudi Arabia |
 | ---------- | ------------------ | ------------ |
-| Hiệp chính |                    |              |
+| Hiệp chính | 0                  | 0            |
 | Hiệp phụ   |                    |              |
 | Penalty    |                    |              |
 
 | 2026/06/27 | New Zealand | Belgium |
 | ---------- | ----------- | ------- |
-| Hiệp chính |             |         |
+| Hiệp chính | 1           | 5       |
 | Hiệp phụ   |             |         |
 | Penalty    |             |         |
 
 | 2026/06/27 | Egypt | Iran |
 | ---------- | ----- | ---- |
-| Hiệp chính |       |      |
+| Hiệp chính | 1     | 1    |
 | Hiệp phụ   |       |      |
 | Penalty    |       |      |
 
