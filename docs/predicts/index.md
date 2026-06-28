@@ -6,6 +6,7 @@
 | Ngày | Trận | |
 |------|------|---|
 | 2026-07-20 | Cập nhật kết quả | [Đọc →](/predicts/matches) |
+| 2026-06-28 | 73 - South Africa vs Canada | [Đọc →](/predicts/2026-06-28_south-africa_canada) |
 | 2026-06-28 | 70 - Jordan vs Argentina | [Đọc →](/predicts/2026-06-28_jordan_argentina) |
 | 2026-06-28 | 69 - Algeria vs Austria | [Đọc →](/predicts/2026-06-28_algeria_austria) |
 | 2026-06-27 | 66 - Uruguay vs Tây Ban Nha | [Đọc →](/predicts/2026-06-27_uruguay_spain) |

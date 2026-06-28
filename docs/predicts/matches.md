@@ -4,7 +4,7 @@ date: 2026-07-20
 created: 2026-07-20 23:59:59
 ---
 
-> Cập nhật kết quả: 2026-06-27 17:22:31 UTC
+> Cập nhật kết quả: 2026-06-28 17:26:00 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -404,135 +404,135 @@ created: 2026-07-20 23:59:59
 
 | 2026/06/27 | Panama | England |
 | ---------- | ------ | ------- |
-| Hiệp chính |        |         |
+| Hiệp chính | 0      | 2       |
 | Hiệp phụ   |        |         |
 | Penalty    |        |         |
 
 | 2026/06/27 | Croatia | Ghana |
 | ---------- | ------- | ----- |
-| Hiệp chính |         |       |
+| Hiệp chính | 2       | 1     |
 | Hiệp phụ   |         |       |
 | Penalty    |         |       |
 
 | 2026/06/27 | Colombia | Portugal |
 | ---------- | -------- | -------- |
-| Hiệp chính |          |          |
+| Hiệp chính | 0        | 0        |
 | Hiệp phụ   |          |          |
 | Penalty    |          |          |
 
 | 2026/06/27 | Congo DR | Uzbekistan |
 | ---------- | -------- | ---------- |
-| Hiệp chính |          |            |
+| Hiệp chính | 3        | 1          |
 | Hiệp phụ   |          |            |
 | Penalty    |          |            |
 
 | 2026/06/28 | Jordan | Argentina |
 | ---------- | ------ | --------- |
-| Hiệp chính |        |           |
+| Hiệp chính | 1      | 3         |
 | Hiệp phụ   |        |           |
 | Penalty    |        |           |
 
 | 2026/06/28 | Algeria | Austria |
 | ---------- | ------- | ------- |
+| Hiệp chính | 3       | 3       |
+| Hiệp phụ   |         |         |
+| Penalty    |         |         |
+
+| 2026/06/28 | South Africa | Canada |
+| ---------- | ------------ | ------ |
+| Hiệp chính |              |        |
+| Hiệp phụ   |              |        |
+| Penalty    |              |        |
+
+| 2026/06/29 | Brazil | Japan |
+| ---------- | ------ | ----- |
+| Hiệp chính |        |       |
+| Hiệp phụ   |        |       |
+| Penalty    |        |       |
+
+| 2026/06/29 | Germany | Paraguay |
+| ---------- | ------- | -------- |
+| Hiệp chính |         |          |
+| Hiệp phụ   |         |          |
+| Penalty    |         |          |
+
+| 2026/06/30 | Netherlands | Morocco |
+| ---------- | ----------- | ------- |
+| Hiệp chính |             |         |
+| Hiệp phụ   |             |         |
+| Penalty    |             |         |
+
+| 2026/06/30 | Ivory Coast | Norway |
+| ---------- | ----------- | ------ |
+| Hiệp chính |             |        |
+| Hiệp phụ   |             |        |
+| Penalty    |             |        |
+
+| 2026/06/30 | France | Sweden |
+| ---------- | ------ | ------ |
+| Hiệp chính |        |        |
+| Hiệp phụ   |        |        |
+| Penalty    |        |        |
+
+| 2026/07/01 | Mexico | Ecuador |
+| ---------- | ------ | ------- |
+| Hiệp chính |        |         |
+| Hiệp phụ   |        |         |
+| Penalty    |        |         |
+
+| 2026/07/01 | England | Congo DR |
+| ---------- | ------- | -------- |
+| Hiệp chính |         |          |
+| Hiệp phụ   |         |          |
+| Penalty    |         |          |
+
+| 2026/07/01 | Belgium | Senegal |
+| ---------- | ------- | ------- |
 | Hiệp chính |         |         |
 | Hiệp phụ   |         |         |
 | Penalty    |         |         |
 
-| 2026/06/28 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/02 | United States | Bosnia-Herzegovina |
+| ---------- | ------------- | ------------------ |
+| Hiệp chính |               |                    |
+| Hiệp phụ   |               |                    |
+| Penalty    |               |                    |
 
-| 2026/06/29 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/02 | Spain | Austria |
+| ---------- | ----- | ------- |
+| Hiệp chính |       |         |
+| Hiệp phụ   |       |         |
+| Penalty    |       |         |
 
-| 2026/06/29 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/02 | Portugal | Croatia |
+| ---------- | -------- | ------- |
+| Hiệp chính |          |         |
+| Hiệp phụ   |          |         |
+| Penalty    |          |         |
 
-| 2026/06/30 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/03 | Switzerland | Algeria |
+| ---------- | ----------- | ------- |
+| Hiệp chính |             |         |
+| Hiệp phụ   |             |         |
+| Penalty    |             |         |
 
-| 2026/06/30 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/03 | Australia | Egypt |
+| ---------- | --------- | ----- |
+| Hiệp chính |           |       |
+| Hiệp phụ   |           |       |
+| Penalty    |           |       |
 
-| 2026/06/30 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/03 | Argentina | Cape Verde Islands |
+| ---------- | --------- | ------------------ |
+| Hiệp chính |           |                    |
+| Hiệp phụ   |           |                    |
+| Penalty    |           |                    |
 
-| 2026/07/01 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/01 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/01 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/02 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/02 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/02 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/03 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/03 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/03 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/04 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/04 | Colombia | Ghana |
+| ---------- | -------- | ----- |
+| Hiệp chính |          |       |
+| Hiệp phụ   |          |       |
+| Penalty    |          |       |
 
 | 2026/07/04 |     |     |
 | ---------- | --- | --- |
