@@ -4,7 +4,7 @@ date: 2026-07-20
 created: 2026-07-20 23:59:59
 ---
 
-> Cập nhật kết quả: 2026-06-29 16:26:40 UTC
+> Cập nhật kết quả: 2026-06-30 16:38:55 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -446,21 +446,21 @@ created: 2026-07-20 23:59:59
 
 | 2026/06/29 | Brazil | Japan |
 | ---------- | ------ | ----- |
-| Hiệp chính |        |       |
+| Hiệp chính | 2      | 1     |
 | Hiệp phụ   |        |       |
 | Penalty    |        |       |
 
 | 2026/06/29 | Germany | Paraguay |
 | ---------- | ------- | -------- |
-| Hiệp chính |         |          |
-| Hiệp phụ   |         |          |
-| Penalty    |         |          |
+| Hiệp chính | 1       | 1        |
+| Hiệp phụ   | 0       | 0        |
+| Penalty    | 3       | 4        |
 
 | 2026/06/30 | Netherlands | Morocco |
 | ---------- | ----------- | ------- |
-| Hiệp chính |             |         |
-| Hiệp phụ   |             |         |
-| Penalty    |             |         |
+| Hiệp chính | 1           | 1       |
+| Hiệp phụ   | 0           | 0       |
+| Penalty    | 2           | 3       |
 
 | 2026/06/30 | Ivory Coast | Norway |
 | ---------- | ----------- | ------ |
@@ -534,23 +534,23 @@ created: 2026-07-20 23:59:59
 | Hiệp phụ   |          |       |
 | Penalty    |          |       |
 
-| 2026/07/04 | Canada |     |
+| 2026/07/04 | Canada | Morocco |
+| ---------- | ------ | ------- |
+| Hiệp chính |        |         |
+| Hiệp phụ   |        |         |
+| Penalty    |        |         |
+
+| 2026/07/04 | Paraguay |     |
+| ---------- | -------- | --- |
+| Hiệp chính |          |     |
+| Hiệp phụ   |          |     |
+| Penalty    |          |     |
+
+| 2026/07/05 | Brazil |     |
 | ---------- | ------ | --- |
 | Hiệp chính |        |     |
 | Hiệp phụ   |        |     |
 | Penalty    |        |     |
-
-| 2026/07/04 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
-
-| 2026/07/05 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
 
 | 2026/07/06 |     |     |
 | ---------- | --- | --- |
