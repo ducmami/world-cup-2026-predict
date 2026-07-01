@@ -4,7 +4,7 @@ date: 2026-07-20
 created: 2026-07-20 23:59:59
 ---
 
-> Cập nhật kết quả: 2026-06-30 16:38:55 UTC
+> Cập nhật kết quả: 2026-07-01 14:48:02 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -464,19 +464,19 @@ created: 2026-07-20 23:59:59
 
 | 2026/06/30 | Ivory Coast | Norway |
 | ---------- | ----------- | ------ |
-| Hiệp chính |             |        |
+| Hiệp chính | 1           | 2      |
 | Hiệp phụ   |             |        |
 | Penalty    |             |        |
 
 | 2026/06/30 | France | Sweden |
 | ---------- | ------ | ------ |
-| Hiệp chính |        |        |
+| Hiệp chính | 3      | 0      |
 | Hiệp phụ   |        |        |
 | Penalty    |        |        |
 
 | 2026/07/01 | Mexico | Ecuador |
 | ---------- | ------ | ------- |
-| Hiệp chính |        |         |
+| Hiệp chính | 2      | 0       |
 | Hiệp phụ   |        |         |
 | Penalty    |        |         |
 
@@ -540,17 +540,17 @@ created: 2026-07-20 23:59:59
 | Hiệp phụ   |        |         |
 | Penalty    |        |         |
 
-| 2026/07/04 | Paraguay |     |
-| ---------- | -------- | --- |
-| Hiệp chính |          |     |
-| Hiệp phụ   |          |     |
-| Penalty    |          |     |
+| 2026/07/04 | Paraguay | France |
+| ---------- | -------- | ------ |
+| Hiệp chính |          |        |
+| Hiệp phụ   |          |        |
+| Penalty    |          |        |
 
-| 2026/07/05 | Brazil |     |
-| ---------- | ------ | --- |
-| Hiệp chính |        |     |
-| Hiệp phụ   |        |     |
-| Penalty    |        |     |
+| 2026/07/05 | Brazil | Norway |
+| ---------- | ------ | ------ |
+| Hiệp chính |        |        |
+| Hiệp phụ   |        |        |
+| Penalty    |        |        |
 
 | 2026/07/06 |     |     |
 | ---------- | --- | --- |
