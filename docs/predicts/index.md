@@ -7,6 +7,8 @@
 |------|------|---|
 | 2026-07-20 | Cập nhật kết quả | [Đọc →](/predicts/matches) |
 | 2026-07-02 | 81 - United States vs Bosnia-Herzegovina | [Đọc →](/predicts/2026-07-02_united-states_bosnia-herzegovina) |
+| 2026-07-02 | 84 - Spain vs Austria | [Đọc →](/predicts/2026-07-02_spain_austria) |
+| 2026-07-02 | 83 - Portugal vs Croatia | [Đọc →](/predicts/2026-07-02_portugal_croatia) |
 | 2026-07-01 | 79 - Mexico vs Ecuador | [Đọc →](/predicts/2026-07-01_mexico_ecuador) |
 | 2026-07-01 | 80 - England vs Congo DR | [Đọc →](/predicts/2026-07-01_england_congo-dr) |
 | 2026-07-01 | 82 - Belgium vs Senegal | [Đọc →](/predicts/2026-07-01_belgium_senegal) |
