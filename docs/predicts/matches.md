@@ -4,7 +4,7 @@ date: 2026-07-20
 created: 2026-07-20 23:59:59
 ---
 
-> Cập nhật kết quả: 2026-07-02 16:29:21 UTC
+> Cập nhật kết quả: 2026-07-03 17:04:48 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -500,19 +500,19 @@ created: 2026-07-20 23:59:59
 
 | 2026/07/02 | Spain | Austria |
 | ---------- | ----- | ------- |
-| Hiệp chính |       |         |
+| Hiệp chính | 3     | 0       |
 | Hiệp phụ   |       |         |
 | Penalty    |       |         |
 
 | 2026/07/02 | Portugal | Croatia |
 | ---------- | -------- | ------- |
-| Hiệp chính |          |         |
+| Hiệp chính | 2        | 1       |
 | Hiệp phụ   |          |         |
 | Penalty    |          |         |
 
 | 2026/07/03 | Switzerland | Algeria |
 | ---------- | ----------- | ------- |
-| Hiệp chính |             |         |
+| Hiệp chính | 2           | 0       |
 | Hiệp phụ   |             |         |
 | Penalty    |             |         |
 

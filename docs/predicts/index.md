@@ -6,6 +6,8 @@
 | Ngày | Trận | |
 |------|------|---|
 | 2026-07-20 | Cập nhật kết quả | [Đọc →](/predicts/matches) |
+| 2026-07-04 | 87 - Colombia vs Ghana | [Đọc →](/predicts/2026-07-04_colombia_ghana) |
+| 2026-07-03 | 86 - Argentina vs Cape Verde Islands | [Đọc →](/predicts/2026-07-03_argentina_cape-verde-islands) |
 | 2026-07-02 | 81 - United States vs Bosnia-Herzegovina | [Đọc →](/predicts/2026-07-02_united-states_bosnia-herzegovina) |
 | 2026-07-02 | 84 - Spain vs Austria | [Đọc →](/predicts/2026-07-02_spain_austria) |
 | 2026-07-02 | 83 - Portugal vs Croatia | [Đọc →](/predicts/2026-07-02_portugal_croatia) |
