@@ -4,7 +4,9 @@ date: 2026-07-20
 created: 2026-07-20 23:59:59
 ---
 
-> Cập nhật kết quả: 2026-07-03 17:04:48 UTC
+# FIFA World Cup 2026
+
+> Cập nhật kết quả: 2026-07-04 16:47:34 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -518,19 +520,19 @@ created: 2026-07-20 23:59:59
 
 | 2026/07/03 | Australia | Egypt |
 | ---------- | --------- | ----- |
-| Hiệp chính |           |       |
-| Hiệp phụ   |           |       |
-| Penalty    |           |       |
+| Hiệp chính | 1         | 1     |
+| Hiệp phụ   | 0         | 0     |
+| Penalty    | 2         | 4     |
 
 | 2026/07/03 | Argentina | Cape Verde Islands |
 | ---------- | --------- | ------------------ |
-| Hiệp chính |           |                    |
-| Hiệp phụ   |           |                    |
+| Hiệp chính | 1         | 1                  |
+| Hiệp phụ   | 2         | 1                  |
 | Penalty    |           |                    |
 
 | 2026/07/04 | Colombia | Ghana |
 | ---------- | -------- | ----- |
-| Hiệp chính |          |       |
+| Hiệp chính | 1        | 0     |
 | Hiệp phụ   |          |       |
 | Penalty    |          |       |
 
@@ -558,11 +560,11 @@ created: 2026-07-20 23:59:59
 | Hiệp phụ   |        |         |
 | Penalty    |        |         |
 
-| 2026/07/06 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/06 | Portugal | Spain |
+| ---------- | -------- | ----- |
+| Hiệp chính |          |       |
+| Hiệp phụ   |          |       |
+| Penalty    |          |       |
 
 | 2026/07/07 | United States | Belgium |
 | ---------- | ------------- | ------- |
@@ -570,17 +572,17 @@ created: 2026-07-20 23:59:59
 | Hiệp phụ   |               |         |
 | Penalty    |               |         |
 
-| 2026/07/07 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/07 | Argentina | Egypt |
+| ---------- | --------- | ----- |
+| Hiệp chính |           |       |
+| Hiệp phụ   |           |       |
+| Penalty    |           |       |
 
-| 2026/07/07 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/07 | Switzerland | Colombia |
+| ---------- | ----------- | -------- |
+| Hiệp chính |             |          |
+| Hiệp phụ   |             |          |
+| Penalty    |             |          |
 
 | 2026/07/09 |     |     |
 | ---------- | --- | --- |
