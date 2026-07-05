@@ -6,6 +6,8 @@
 | Ngày | Trận | |
 |------|------|---|
 | 2026-07-20 | Cập nhật kết quả | [Đọc →](/predicts/matches) |
+| 2026-07-06 | 92 - Mexico vs England | [Đọc →](/predicts/2026-07-06_mexico_england) |
+| 2026-07-05 | 91 - Brazil vs Norway | [Đọc →](/predicts/2026-07-05_brazil_norway) |
 | 2026-07-04 | 89 - Paraguay vs France | [Đọc →](/predicts/2026-07-04_paraguay_france) |
 | 2026-07-04 | 87 - Colombia vs Ghana | [Đọc →](/predicts/2026-07-04_colombia_ghana) |
 | 2026-07-04 | 90 - Canada vs Morocco | [Đọc →](/predicts/2026-07-04_canada_morocco) |

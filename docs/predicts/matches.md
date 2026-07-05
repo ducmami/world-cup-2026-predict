@@ -6,7 +6,7 @@ created: 2026-07-20 23:59:59
 
 # FIFA World Cup 2026
 
-> Cập nhật kết quả: 2026-07-04 16:47:34 UTC
+> Cập nhật kết quả: 2026-07-05 16:50:07 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -538,13 +538,13 @@ created: 2026-07-20 23:59:59
 
 | 2026/07/04 | Canada | Morocco |
 | ---------- | ------ | ------- |
-| Hiệp chính |        |         |
+| Hiệp chính | 0      | 3       |
 | Hiệp phụ   |        |         |
 | Penalty    |        |         |
 
 | 2026/07/04 | Paraguay | France |
 | ---------- | -------- | ------ |
-| Hiệp chính |          |        |
+| Hiệp chính | 0        | 1      |
 | Hiệp phụ   |          |        |
 | Penalty    |          |        |
 
@@ -584,11 +584,11 @@ created: 2026-07-20 23:59:59
 | Hiệp phụ   |             |          |
 | Penalty    |             |          |
 
-| 2026/07/09 |     |     |
-| ---------- | --- | --- |
-| Hiệp chính |     |     |
-| Hiệp phụ   |     |     |
-| Penalty    |     |     |
+| 2026/07/09 | France | Morocco |
+| ---------- | ------ | ------- |
+| Hiệp chính |        |         |
+| Hiệp phụ   |        |         |
+| Penalty    |        |         |
 
 | 2026/07/10 |     |     |
 | ---------- | --- | --- |
