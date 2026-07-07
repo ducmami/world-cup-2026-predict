@@ -1,5 +1,5 @@
 ---
-title: Mexico vs England
+title: 92 - Mexico vs England
 match: Mexico vs England
 date: 2026-07-06
 created: 2026-07-06 08:03
