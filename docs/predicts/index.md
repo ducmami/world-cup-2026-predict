@@ -6,6 +6,7 @@
 | Ngày | Trận | |
 |------|------|---|
 | 2026-07-20 | Cập nhật kết quả | [Đọc →](/predicts/matches) |
+| 2026-07-09 | 97 - France vs Morocco | [Đọc →](/predicts/2026-07-09_france_morocco) |
 | 2026-07-07 | 94 - United States vs Belgium | [Đọc →](/predicts/2026-07-07_united-states_belgium) |
 | 2026-07-07 | 96 - Switzerland vs Colombia | [Đọc →](/predicts/2026-07-07_switzerland_colombia) |
 | 2026-07-07 | 95 - Argentina vs Egypt | [Đọc →](/predicts/2026-07-07_argentina_egypt) |
