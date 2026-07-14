@@ -6,6 +6,7 @@
 | Ngày | Trận | |
 |------|------|---|
 | 2026-07-20 | Cập nhật kết quả | [Đọc →](/predicts/matches) |
+| 2026-07-14 | 101 - France vs Spain | [Đọc →](/predicts/2026-07-14_france_spain) |
 | 2026-07-12 | 100 - Argentina vs Switzerland | [Đọc →](/predicts/2026-07-12_argentina_switzerland) |
 | 2026-07-11 | 99 - Norway vs England | [Đọc →](/predicts/2026-07-11_norway_england) |
 | 2026-07-10 | 98 - Spain vs Belgium | [Đọc →](/predicts/2026-07-10_spain_belgium) |
