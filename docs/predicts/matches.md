@@ -6,7 +6,7 @@ created: 2026-07-20 23:59:59
 
 # FIFA World Cup 2026
 
-> Cập nhật kết quả: 2026-07-15 16:26:26 UTC
+> Cập nhật kết quả: 2026-07-19 17:15:09 UTC
 
 | 2026/06/11 | Mexico | South Africa |
 | ---------- | ------ | ------------ |
@@ -616,18 +616,18 @@ created: 2026-07-20 23:59:59
 
 | 2026/07/15 | England | Argentina |
 | ---------- | ------- | --------- |
-| Hiệp chính |         |           |
+| Hiệp chính | 1       | 2         |
 | Hiệp phụ   |         |           |
 | Penalty    |         |           |
 
-| 2026/07/18 | France |     |
-| ---------- | ------ | --- |
-| Hiệp chính |        |     |
-| Hiệp phụ   |        |     |
-| Penalty    |        |     |
+| 2026/07/18 | France | England |
+| ---------- | ------ | ------- |
+| Hiệp chính | 4      | 6       |
+| Hiệp phụ   |        |         |
+| Penalty    |        |         |
 
-| 2026/07/19 | Spain |     |
-| ---------- | ----- | --- |
-| Hiệp chính |       |     |
-| Hiệp phụ   |       |     |
-| Penalty    |       |     |
+| 2026/07/19 | Spain | Argentina |
+| ---------- | ----- | --------- |
+| Hiệp chính |       |           |
+| Hiệp phụ   |       |           |
+| Penalty    |       |           |
